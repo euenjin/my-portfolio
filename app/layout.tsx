@@ -13,30 +13,25 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Full-Stack Developer',
+	title: '[Eunjin Ahn] - Data Science & Computer Science student @NYU',
 	description:
-		'Welcome to my portfolio! I am a passionate full-stack developer who bridges the gap between frontend and backend development. Specializing in creating complete web solutions, from beautiful user interfaces to robust server architectures.',
+		'Welcome to my portfolio! I am a passionate student who is passionate about data science and computer science. Specializing in deriving actionable insights from data and turning them into real-world solutions,
 	keywords: [
-		'Full-Stack Developer',
-		'Software Engineer',
-		'Frontend Development',
-		'Backend Development',
+		'Data Science',
+		'Computer Science',
+		'Problem Solving',
+		'Project Management',
 		'React',
-		'Next.js',
 		'Node.js',
-		'TypeScript',
-		'Database Design',
-		'API Development',
-		'Cloud Solutions',
-		'DevOps',
-		'System Architecture',
-		'Web Development',
-		'[Your Name]',
+		'Python',
+		'Java',
+		'Research',
+		'[Eunjin Ahn]',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: '[Eunjin Ahn]' }],
+	creator: '[Eunjin Ahn]',
 	openGraph: {
-		title: '[Your Name] - Full-Stack Developer Portfolio',
+		title: '[Eunjin Ahn] - Full-Stack Developer Portfolio',
 		description:
 			'Passionate full-stack developer creating complete web solutions. Explore my projects and technical expertise across the entire development stack.',
 		url: 'https://your-domain.com',
