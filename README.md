@@ -78,12 +78,6 @@ Follow these steps to deploy your portfolio for free using GitHub and Vercel:
 
 Your portfolio will be live in minutes with a free Vercel domain (e.g., `your-repo.vercel.app`). You can later add a custom domain in your Vercel project settings.
 
-## Support
+## Information
+If you want to customize your portfolio, please refer to Iancuandrei's repository.
 
-If you find these templates helpful, please consider:
-
-- Starring the repository ⭐
-- Sharing with other developers
-- [Buying me a coffee](https://www.buymeacoffee.com/andreiancu) ☕
-
-For issues and feature requests, please [create an issue](https://github.com/devportfoliotemplates/devportfoliotemplates/issues).
