@@ -1,5 +1,5 @@
 # Data Science & Computer Science Student Portfolio
-This is my portfolio based on Full Stack Developer Light Portfolio Template by Andreiancu
+This is my portfolio based on Full Stack Developer Light Portfolio Template by Iancuandrei
 
 ## Customization
 
