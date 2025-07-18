@@ -1,56 +1,5 @@
-# Full Stack Developer Light Portfolio Template
-
-[Demo](https://www.devportfoliotemplates.com/portfolio-templates/full-stack-developer-light)
-
-## Getting Started
-
-You have two options to get started with this template:
-
-### Option 1: Using Git Sparse Checkout
-
-If you want to clone only this specific template:
-
-```bash
-git clone --no-checkout https://github.com/devportfoliotemplates/devportfoliotemplates.git
-cd devportfoliotemplates
-git sparse-checkout init --cone
-git sparse-checkout set full-stack-developer-light-portfolio-template
-git checkout
-```
-
-### Option 2: Direct Download
-
-You can download this template as a ZIP file:
-
-1. Visit [download-directory.github.io](https://download-directory.github.io/)
-2. Paste the URL of this portfolio folder: `https://github.com/devportfoliotemplates/devportfoliotemplates/tree/main/full-stack-developer-light-portfolio-template`
-3. Download and extract the ZIP file
-
-### Running the Template
-
-Once you have the template:
-
-1. Install dependencies:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-2. Run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the portfolio.
+# Data Science & Computer Science Student Portfolio
+This is my portfolio based on Full Stack Developer Light Portfolio Template by Andreiancu
 
 ## Customization
 
